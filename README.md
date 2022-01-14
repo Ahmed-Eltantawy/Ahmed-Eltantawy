@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Tensor Analysis
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me ...
+- 📫 Reach me on a.eltantawy66@gmail.com
 
 <!---
 Ahmed-Eltantawy/Ahmed-Eltantawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
